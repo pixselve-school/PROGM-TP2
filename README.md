@@ -1,4 +1,4 @@
-<h1 align="center">Association Manager Angular Front-end</h1>
+<h1 align="center">TP2 - Programmation mobile</h1>
 <h4 align="center">Mael KERICHARD (@Pixselve) - Romain BRIEND (@Yami2200)</h4>
 <p align="center">
    <img src="https://img.shields.io/badge/-ESIR-orange" alt="ESIR">
